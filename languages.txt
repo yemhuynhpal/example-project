@@ -1,6 +1,7 @@
-java
+typescript
+Java
 kotlin
 scala
 ruby
 javascript
-c++
+rust
